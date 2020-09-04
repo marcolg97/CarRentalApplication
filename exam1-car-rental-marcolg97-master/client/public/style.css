@@ -1,0 +1,57 @@
+.left_sidebar {
+	padding: 10px;
+}
+
+.title_left_sidebar {
+	text-decoration: underline;
+	margin: 30px 0px 15px 0px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.left_sidebar_group {
+	margin: 30px;
+}
+/*Main content*/
+.main_content {
+	padding: 40px;
+}
+
+.btnNavLik {
+	color: black;
+	margin: 5px;
+}
+
+.btnNavLinkActive {
+	font-weight: bold;
+	color: #007bff;
+	margin-top: 30px;
+}
+
+/*Checkbox style*/
+
+/* Checkbox red */
+.custom-checkbox .custom-control-input.important ~ .custom-control-label::before {
+	border-color: red;
+}
+
+.custom-checkbox .custom-control-input.important:checked ~ .custom-control-label::before {
+	background-color: red;
+}
+
+.custom-checkbox .custom-control-input.important:focus ~ .custom-control-label::before {
+	box-shadow: 0 0 0 0.2rem rgb(255, 148, 148);
+}
+
+/* Checkbox bkack */
+.custom-checkbox .custom-control-input.normal ~ .custom-control-label::before {
+	border-color: black;
+}
+
+.custom-checkbox .custom-control-input.normal:checked ~ .custom-control-label::before {
+	background-color: black;
+}
+
+.custom-checkbox .custom-control-input.normal:focus ~ .custom-control-label::before {
+	box-shadow: 0 0 0 0.2rem rgb(211, 211, 211);
+}
