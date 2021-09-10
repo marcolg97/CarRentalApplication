@@ -1,4 +1,8 @@
-# Exam #1: "Car Rental"
+## Nome Progetto: "Car Rental"
+
+
+### Progetto svolto durante il corso magistrale WebApplication I anno 2019/2020
+### Tecnologie utilizzate: React, Bootstrap, Node, Express
 
 ## Student: s279428 LA GALA MARCO
 
